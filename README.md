@@ -6,11 +6,7 @@ What is this ?
 
 This is fully 3D printable V8 engine that i designed from scratch in fusion 360. Its the bottom end of v8, so it has the engine block, a crankshaft, 8 piston with their own connective rods and the oil pan. When you turn the crank shaft by hand every piston goes up and down in its cylinder just like a real enigne. No heads or Valves yet, thats the next version, but its already really satisfying to spin. 
 
-
-
-Every part is its own file (STEP included) so you can print, edit or remix what ever you want in CAD.
-
-
+Note : Every part is its own file (STEP included) so you can print, edit or remix what ever you want in CAD.
 
 Why i made ? 
 
@@ -18,176 +14,24 @@ Honestly, I'm just really into mechanical things. I'm planning to do my bachelor
 
 Designing it taught me a lot about :
 
-
-
-
-
-
-How a V8 crankshaft is laid out 
-
-
-
-How pistons and rods turn up-down motion into rotation 
+1) How a V8 crankshaft is laid out 
+2) How pistons and rods turn up-down motion into rotation 
 
 Part List (Needed to print ):
+## Engine Parts
+
+| Part | Qty | Notes |
+|:---|:---:|:---|
+| Engine Block | 1 | Main body that holds the crankshaft and 8 cylinders |
+| Crankshaft | 1 | Should be printed strong |
+| Crankshaft Bearing | 2 | Sits between the crankshaft and engine block |
+| Piston Head | 8 | One per cylinder |
+| Piston Rod | 8 | Connects the piston to the crankshaft |
+| Piston Rod Cap | 8 | Clamps the rod around the crank journal |
+| Piston Rod Pin | 8 | Holds the piston head to the rod |
+| Oil Pan | 1 | Closes the bottom of the engine block |
 
 
-
-
-
-
-
-Part 
-
-
-
-Qty
-
-
-
-Notes
-
-
-
-
-
-Engine Block 
-
-
-
-1
-
-
-
-This is main body and it holds crank and 8 cylinder
-
-
-
-
-
-Crank Shaft 
-
-
-
-1
-
-
-
-It should be print strong
-
-
-
-
-
-Crank Shaft Bearing 
-
-
-
-2 
-
-
-
-Sits between crank and block 
-
-
-
-
-
-Piston Head 
-
-
-
-8
-
-
-
-One per cylinder 
-
-
-
-
-
-Piston Rod
-
-
-
-8 
-
-
-
-Connects piston to crank 
-
-
-
-
-
-Piston Rod Cap 
-
-
-
-8 
-
-
-
-Clamps the rod around the crank journal 
-
-
-
-
-
-Piston Rod Pin 
-
-
-
-8
-
-
-
-Holds piston head to the rod 
-
-
-
-
-
-Oil pan 
-
-
-
-1
-
-
-
-Closes the bottom of the engine block
-
-
-
-What you need :
-
-
-
-
-
-3D printer 
-
-
-
-PLA OR PETG 
-
-
-
-91251A148_Black-Oxide Alloy Steel Socket Head Screw for the rod caps (2 psc for each piston)
-
-
-
-Hexagon socket head cap screw - M3 x 20 for the oil pan ( 18 qty)
-
-
-
-silicon or PTEF grease 
-
-
-
-allen key
 
 Assembly Guide : 
 
@@ -215,27 +59,11 @@ Future improvement :
 
 This is only version 1, i have big plans : 
 
-
-
-
-
-cylinder head 
-
-
-
-valves and valves springs
-
-
-
-camshaft and timing system 
-
-
-
-intake and exhaust manifolds
-
-
-
-Fkywheel and a little motor 
+1) cylinder head 
+2) valves and valves springs
+3) camshaft and timing system 
+4) intake and exhaust manifolds
+5) Fkywheel and a little motor 
 
 
 
